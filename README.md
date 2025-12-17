@@ -1,2 +1,55 @@
 # anas-devops
-DevOps Engineer (Fresher) | Red Hat Linux | AWS | Cloud &amp; Automation Learner
+# Hi 👋 I'm Aboobacker Anas
+
+🎯 Entry-Level DevOps Engineer passionate about Cloud, Linux, and Automation.
+
+---
+
+## 🚀 About Me
+- 🎓 BCA Graduate
+- 🐧 Strong in Red Hat Enterprise Linux
+- ☁️ Hands-on with AWS (EC2, S3, IAM, VPC)
+- 🔧 Currently learning DevOps tools and CI/CD pipelines
+- 💡 Interested in Cloud, Automation & Infrastructure
+
+---
+
+## 🛠️ Skills
+- **Operating System:** Red Hat Linux
+- **Cloud:** AWS (EC2, S3, IAM, VPC)
+- **Version Control:** Git, GitHub
+- **Scripting:** Bash (Basic)
+- **DevOps Tools:** Docker (Learning), Jenkins (Learning)
+- **Networking:** Basic Linux & Cloud Networking
+
+---
+
+## 📂 Projects
+🔹 **Linux Server Setup & User Management**  
+- User & group management  
+- File permissions & security  
+- Service management  
+
+🔹 **AWS EC2 Web Server Deployment**  
+- Launched EC2 instance  
+- Installed Apache  
+- Hosted a static website  
+
+🔹 **Git & GitHub Version Control Practice**  
+- Repository management  
+- Branching & commits  
+
+---
+
+## 📈 GitHub Goals
+- Build real-time DevOps projects  
+- Learn Docker, Kubernetes & CI/CD  
+- Become a professional DevOps Engineer  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: anchuksd1@gmail.com
+- 💼 LinkedIn: *(Add when ready)*
+
+⭐ Feel free to check my repositories and follow my DevOps journey!
