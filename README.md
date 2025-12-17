@@ -50,6 +50,6 @@
 
 ## 📫 Connect With Me
 - 📧 Email: anchuksd1@gmail.com
-- 💼 LinkedIn: *(Add when ready)*
+- 💼 LinkedIn: *(https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558721_kw.linkedin%20profile_d.c_tid.kwd-10521864172_n.g_mt.e_geo.9183887)*
 
 ⭐ Feel free to check my repositories and follow my DevOps journey!
